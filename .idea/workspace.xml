@@ -6,16 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c614a1b3-7825-438c-b77f-b737c360317b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +35,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.program_1.executor": "Run",
+    "Python.program_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
