@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c614a1b3-7825-438c-b77f-b737c360317b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_manipulation_programs/program_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_manipulation_programs/program_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Python.program_4.executor": "Run",
     "Python.program_5.executor": "Run",
     "Python.program_6.executor": "Run",
+    "Python.program_7.executor": "Run",
     "Python.user_input_turn_all_capital_letters.executor": "Run",
     "Python.user_input_turn_six_digits.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
